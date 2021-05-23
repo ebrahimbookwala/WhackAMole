@@ -1,0 +1,15 @@
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 320px;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.mole {
+  background: url("MrBees.jpg") center/cover no-repeat;
+}
